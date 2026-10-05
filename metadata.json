@@ -1,0 +1,6 @@
+{
+  "name": "BABU CAR RACING",
+  "description": "Race • Win • Unlock • Become Champion. Original mobile car racing game with 50 levels, 10 cars, 9 AI opponents, garage upgrades, and championship mode.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
